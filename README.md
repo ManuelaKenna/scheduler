@@ -4,7 +4,7 @@ This is a daily planner where you can log your activities in a day that also tel
 
 https://manuelakenna.github.io/super-disco/
 
-<img src= Develop\images\super-disco-screenshot.png> 
+<img src= images\super-disco-screenshot.png>
 
 <h1>Acceptance Criteria</h1>
 
